@@ -1,0 +1,7 @@
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\bin\Debug\JenkinsSample.exe.config
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\bin\Debug\JenkinsSample.exe
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\bin\Debug\JenkinsSample.pdb
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\obj\Debug\JenkinsSample.csprojAssemblyReference.cache
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\obj\Debug\JenkinsSample.csproj.CoreCompileInputs.cache
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\obj\Debug\JenkinsSample.exe
+C:\Users\Shrihari Oze\Downloads\LTI\Jenkins.net\JenkinsSampleSolution\JenkinsSample\obj\Debug\JenkinsSample.pdb
